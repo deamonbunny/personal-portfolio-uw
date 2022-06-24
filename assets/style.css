@@ -72,7 +72,15 @@ li {
 .container {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
     align-items: center;
     justify-content: space-between;
 }
@@ -82,10 +90,20 @@ section {
     margin: 2em auto;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
+}
+
+.works {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: space-between; */
+    width: 80%;
 }
 
 h2 {
-    width: 15vw;
+    width: 20%;
     text-align: right;
     padding: 0 15px;
     align-self: stretch;
@@ -103,13 +121,20 @@ h2 {
 }
 
 .work-1 {
+    /* flex: 100%; */
+    width: 400px;
+    height: 400px;
     margin: 10px auto;
     padding: 2em;
 }
 
 .work-2 {
+    height: 300px;
+    width: 300px;
     margin: 10px auto;
-}
+    /* flex: 25%; */
+    padding: 2em;
+} 
 
 footer {
     display: flex;
