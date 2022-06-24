@@ -5,8 +5,8 @@ Aelin Rose Person Portfolio
 
 A portfoilo containing information about me and links to my past works
 
-![Head and hero](./assets/images/head-and-hero.PNG)
-![Main and Body](./assets/images/main-and-aside.png)
+![Top half of page](./assets/websitetop.png)
+![bottom half of page](./assets/websitebottom.png)
 
 ---
 
