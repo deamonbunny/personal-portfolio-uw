@@ -23,7 +23,7 @@ A portfoilo containing information about me and links to my past works
 ---
 
 ## How to Access
-Access website 
+Access website https://deamonbunny.github.io/personal-portfolio-uw/
 
 ---
 
